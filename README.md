@@ -5,10 +5,10 @@
 
 </div>
 
-# Edemy LMS 🎓 - A Modern Learning Management System
+# SAP Study 🎓 - A Modern Learning Management System
 
 
-Edemy LMS is a full-stack learning management system (LMS) that provides educators and students with a seamless e-learning experience. Built using modern web technologies, it includes user authentication, course management, video streaming, and progress tracking.
+SAP Study is a full-stack learning management system (LMS) that provides educators and students with a seamless e-learning experience. Built using modern web technologies, it includes user authentication, course management, video streaming, and progress tracking.
 
 ## 🚀 Tech Stack
 
@@ -214,7 +214,7 @@ Contact Us:  📲<a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%
 
 
 
-## Thank you for checking out the **Edemy LMS** project! Happy coding! 😊
+## Thank you for checking out the **SAP Study** project! Happy coding! 😊
 
 ---
 ## ⭐ Support
