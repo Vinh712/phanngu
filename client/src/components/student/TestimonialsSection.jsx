@@ -4,10 +4,9 @@ import { assets, dummyTestimonial } from "../../assets/assets";
 const TestimonialsSection = () => {
 	return (
 		<div className="pb-14 px-8 md:px-0">
-			<h2 className="text-3xl font-medium text-gray-800">Cảm nhận của học viên</h2>
+			<h2 className="text-3xl font-medium text-gray-800">Student Testimonials</h2>
 			<p className="md:text-base text-gray-500 mt-3">
-				Lắng nghe những chia sẻ từ học viên của chúng tôi về hành trình thay đổi,
-				thành công, và cách mà <br /> nền tảng của chúng tôi đã tạo nên sự khác biệt trong học tập của họ.
+				Hear from our learners as they share their journeys of growth and success, <br  /> and how our platform has made a meaningful difference in their learning experience.
 			</p>
 
 			<div className="grid grid-cols-auto gap-8 mt-14">

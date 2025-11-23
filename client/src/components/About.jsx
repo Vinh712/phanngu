@@ -14,16 +14,16 @@ const About = () => {
 					About NLS
 				</h1>
 				<p className="text-lg text-gray-600 text-center mb-8">
-					Trao quyền cho học viên và giảng viên thông qua một trải nghiệm học tập trực tuyến mượt mà và hiệu quả.
+					Empowering learners and instructors through a smooth and effective online learning experience.
 				</p>
 
 				{/* Section: Our Mission */}
 				<div className=" p-8 rounded-lg shadow-lg mb-8">
 					<h2 className="text-2xl font-semibold text-gray-700 mb-4">
-						Sứ mệnh của chúng tôi
+						Our Mission
 					</h2>
 					<p className="text-gray-600">
-						Tại NLS, chúng tôi nỗ lực làm cho giáo dục trở nên dễ tiếp cận và hấp dẫn với mọi người. Nền tảng của chúng tôi kết nối học viên và giảng viên bằng cách cung cấp các khóa học chất lượng cao, công cụ học tập tương tác và trải nghiệm người dùng trực quan.
+						At NLS, we strive to make education accessible and engaging for everyone. Our platform connects learners and instructors by providing high-quality courses, interactive learning tools, and an intuitive user experience.
 					</p>
 				</div>
 
@@ -31,26 +31,26 @@ const About = () => {
 				<div className="grid grid-cols-1 md:grid-cols-3 gap-6">
 					<div className="p-6 border rounded-lg shadow-md text-center">
 						<h3 className="text-xl font-semibold text-gray-700">
-							📚 Khóa học chất lượng
+							📚 Quality Courses
 						</h3>
 						<p className="text-gray-600 mt-2">
-							Học từ các giảng viên chuyên gia thông qua các khóa học được cấu trúc tốt và hấp dẫn.
+							Learn from expert instructors through well-structured and engaging courses.
 						</p>
 					</div>
 					<div className="p-6 border rounded-lg shadow-md text-center">
 						<h3 className="text-xl font-semibold text-gray-700">
-							🚀 Học tập tương tác
+							🚀 Interactive Learning
 						</h3>
 						<p className="text-gray-600 mt-2">
-							Nền tảng của chúng tôi bao gồm theo dõi tiến trình theo thời gian thực, các bài kiểm tra và các dự án thực hành.
+							Our platform includes real-time progress tracking, quizzes, and hands-on projects.
 						</p>
 					</div>
 					<div className="p-6 border rounded-lg shadow-md text-center">
 						<h3 className="text-xl font-semibold text-gray-700">
-							🌍 Truy cập toàn cầu
+							🌍 Global Access
 						</h3>
 						<p className="text-gray-600 mt-2">
-							Học bất cứ lúc nào, bất cứ nơi đâu, trên bất kỳ thiết bị nào với trải nghiệm liền mạch.
+							Learn anytime, anywhere, on any device with a seamless experience.
 						</p>
 					</div>
 				</div>
@@ -58,10 +58,10 @@ const About = () => {
 				{/* Section: Join Us */}
 				<div className="mt-12 text-center">
 					<h2 className="text-2xl font-semibold text-gray-700 mb-4">
-						Tham gia NLS ngay hôm nay
+						Join NLS Today
 					</h2>
 					<p className="text-gray-600 mb-6">
-						Dù bạn là học viên muốn nâng cao kỹ năng hay giảng viên muốn chia sẻ kiến thức, NLS là nền tảng hoàn hảo dành cho bạn.
+						Whether you're a learner looking to enhance your skills or an instructor eager to share knowledge, NLS is the perfect platform for you.
 					</p>
 
 					{user ? (

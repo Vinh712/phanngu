@@ -9,11 +9,12 @@ const Hero = () => {
   In Development mode
 </h1> */}
 
-      <h1 className='md:text-home-heading-large text-home-heading-small relative font-bold text-gray-800 max-w-3xl mx-auto'>Thời điểm tốt nhất để trồng một cái cây là 20 năm trước. <span className='text-blue-600'> Thời điểm tốt thứ hai là ngay bây giờ. </span> <img src={assets.sketch} alt="sketch" className='md:block hidden absolute -bottom-7 right-0' /></h1>
+      <h1 className='md:text-home-heading-large text-home-heading-small relative font-bold text-gray-800 max-w-3xl mx-auto'>The best time to plant a tree was 20 years ago<span className='text-blue-600'> The second best time is right now. </span> <img src={assets.sketch} alt="sketch" className='md:block hidden absolute -bottom-7 right-0' /></h1>
 
-      <p className='md:block hidden text-gray-500 max-w-2xl mx-auto'>NLS được hình thành với sứ mệnh nâng đỡ người học thông qua tri thức cốt lõi của IELTS và IT. Bởi chúng tôi tin rằng: người chủ động bắt đầu sớm sẽ là người nắm giữ lợi thế dài lâu. Chúng tôi mang đến giáo trình chuẩn mực, giảng viên uy tín và môi trường học thuật giúp bạn phát triển một cách có định hướng.</p>
+      <p className='md:block hidden text-gray-500 max-w-2xl mx-auto'>NLS was founded with the mission of empowering learners through the core knowledge of IELTS and IT. We believe that those who take initiative and start early will always hold a long-term advantage.
+We provide a rigorous curriculum, trusted instructors, and an academic environment designed to help you grow with clarity and purpose.</p>
 
-      <p className='md:hidden text-gray-500 max-w-sm mx-auto'> Chúng tôi kết nối những giảng viên giàu kinh nghiệm để hỗ trợ bạn đạt được mục tiêu học tập và phát triển nghề nghiệp.</p>
+      <p className='md:hidden text-gray-500 max-w-sm mx-auto'> We bring together experienced instructors to help you achieve your learning goals and advance your professional growth.</p>
 
       <SearchBar />
     </div>

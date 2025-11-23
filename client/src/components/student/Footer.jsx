@@ -22,9 +22,7 @@ const Footer = () => {
 				<div className="flex flex-col md:items-start items-center w-full">
 					<img src={assets.logo_dark} alt="logo" />
 					<p className="mt-6 text-center sm:flex sm:flex-row sm:justify-center  md:text-left text-sm text-white/80">
-						Chúng tôi mang đến trải nghiệm học tập dễ tiếp cận và đầy hứng thú
-						kết nối học viên với giảng viên thông qua các khóa học chất lượng
-						công cụ tương tác hiện đại và giao diện trực quan.
+						We offer an accessible and engaging learning experience, connecting learners with instructors through high-quality courses, modern interactive tools, and an intuitive interface.
 					</p>
 				</div>
 				
