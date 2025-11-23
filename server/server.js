@@ -20,16 +20,17 @@ await connectCloudinay();
 
 // middleware
 app.use(cors());
-app.use(clerkMiddleware())
-
-
-// Routes
-app.get('/', (req,res)=>{res.send("Edemy API is working fine!")})
-app.post('/clerk', express.json(), clerkWebhooks)
+app.post('/clerk', express.raw({ type: 'application/json' }), clerkWebhooks);
+app.use(clerkMiddleware());
+app.get('/', (req, res) => {
+  res.send("Edemy API is working fine!");
+});
 app.use('/api/educator', express.json(), educatorRouter);
 app.use('/api/course', express.json(), courseRouter);
 app.use('/api/user', express.json(), userRouter);
-app.post('/stripe', express.raw({type: 'application/json'}), stripeWebhooks);
+
+// Webhook Stripe vẫn giữ raw
+app.post('/stripe', express.raw({ type: 'application/json' }), stripeWebhooks);
 
 
 
