@@ -1,0 +1,169 @@
+[33m769c927[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update giao diện NLS
+[33m9751502[m Update giao diện NLS
+[33m06c3bd0[m Update giao diện NLS
+[33mc185837[m Update giao diện NLS
+[33m334801c[m Update giao diện NLS
+[33maef9d28[m Update giao diện NLS
+[33md3e315d[m Update webhooks.js
+[33m5be9264[m Refactor middleware and route definitions
+[33ma45fcfd[m Initial Edemy-LMS
+[33m40f5bb3[m feat: add ads.txt
+[33mc22a142[m feat: add Privacy Policy page and update footer link
+[33md03f5b3[m update: add Google Ads script to index.html
+[33ma749d50[m refactor: enhance Player component with improved video handling and UI updates
+[33me22deb8[m update: course card
+[33m1b67b67[m update
+[33m4148157[m updated
+[33m42f9d38[m modified: visitor
+[33mb3ca141[m modified
+[33m08556bc[m modified: my course
+[33m6f885b9[m modified: dashboard
+[33m0992c50[m modified: add course
+[33m2b3a383[m modified: navbar
+[33m3f75233[m modified: loading
+[33m0d92525[m modified: course section
+[33m7793ad1[m modified: navbar
+[33m6c3c988[m modified: logger
+[33mdc3ff3f[m feat: update visibility
+[33m3a181b7[m feat: update visibility
+[33m85cc912[m feat: update visibility
+[33mebd99ba[m feat: update: course card
+[33me9f3f82[m Merge branch 'main' of https://github.com/Gyanthakur/Edemy-LMS
+[33mcf89fb6[m feat: fix error
+[33m5fea50f[m feat: added jpg passing
+[33ma116b6f[m feat: fix error
+[33maf4d4eb[m feat: remove log
+[33m43df4e7[m feat: remove log
+[33m0133a1c[m feat: fix typo
+[33mfa545a5[m feat: fix erroe
+[33m5ab98c1[m feat: update css
+[33m44556ae[m feat: added image
+[33mdf11686[m Update README.md
+[33mac8310b[m Merge branch 'main' of https://github.com/Gyanthakur/Edemy-LMS
+[33m2a461bc[m feat: update version
+[33m6a0288f[m feat: update text
+[33m023cda8[m feat: update text
+[33m4440c96[m feat: update text
+[33mf421f80[m feat: update footer
+[33mdffcd24[m feat: update footer
+[33m690ebf7[m feat: added social url
+[33m0f44f51[m feat: added contact page
+[33mfab3181[m feat: added about page
+[33m6e98de4[m Update README.md
+[33me49c9f9[m Create README.md
+[33m56bdf7c[m update: hero section
+[33mea173ec[m feat: fix preview
+[33mb043f28[m feat: fix model error
+[33m75d7e7b[m feat: fix course play button
+[33maf02f80[m feat: fix course play button
+[33m8055687[m feat: fix error on add course api
+[33me334cb6[m feat: fix precision in controller
+[33m312a866[m feat: fix publishCourse
+[33md7ea1d1[m feat: add visitor count
+[33mcf9faca[m feat: fix precision in controller
+[33m4b8c309[m feat: fix responsive
+[33m50f4d85[m feat: fix responsive
+[33m07bd505[m feat: fix typo in controller
+[33m1cddfcd[m feat: added default image
+[33m891247c[m feat: added backend
+[33mf198196[m feat: added backend
+[33m8867f4d[m feat: added backend
+[33me5c6319[m feat: added backend
+[33m4f7dd00[m feat: added backend
+[33mf2bf663[m feat: added backend
+[33m7f2c283[m feat: update context
+[33m434a0ec[m feat: update loading
+[33me8de7a1[m feat: update routes
+[33mab01df0[m feat: update model
+[33m7706385[m feat: update controllers
+[33m8459772[m feat: connect backend
+[33m13f9f92[m feat: connect backend
+[33me9b1808[m feat: connect backend
+[33m8133aa6[m feat: connect backend
+[33m2f36cf4[m feat: connect backend
+[33m103de35[m feat: connect  backend
+[33m16366db[m feat: added app
+[33m123e6aa[m feat: added axios toastify
+[33m1c4f0f9[m feat: added axios toastify
+[33ma29e674[m feat: update user routes
+[33m67ae5d4[m feat: added course progress routes
+[33m543ebcd[m feat: added course progress controller
+[33m3d4080f[m feat: added course progress model
+[33m6b5950f[m feat: update
+[33md2663e9[m feat: update
+[33m0010032[m feat: update
+[33m225d668[m feat: update
+[33m9d0c3f0[m feat: added stripe webhooks
+[33meaf5339[m feat: modified model
+[33mc33dbbe[m feat: modified server
+[33m41b9adc[m feat: added user routes
+[33m3a9f0bb[m feat: added user controller
+[33mef421e0[m feat: modified
+[33mcd957af[m feat: modified
+[33m2d5b04a[m feat: added course route
+[33me626e34[m feat: added purchase model
+[33m99de65d[m feat: added educator middleware
+[33m88829cd[m feat: added course controller
+[33m5277ce4[m feat: added multer
+[33m940edf4[m feat: update server
+[33mac3ee1e[m feat: added educator routes
+[33m2056e0d[m feat: added course model
+[33m22fa221[m feat: added educator controller
+[33m894fad0[m feat: setup cloudinary
+[33m3a21b21[m feat: update at webhooks
+[33ma6d8e02[m feat: update at webhooks
+[33m1407f80[m feat: added vervel json
+[33m9c9792b[m feat: added user model
+[33mf5c90b9[m feat: added controllers
+[33m6e3d371[m feat: added mongoose connection
+[33mc4dcbfd[m feat: init.. server
+[33m826847a[m feat: update course player
+[33ma6248fe[m feat: update
+[33mda6b16a[m feat: added my student enrolled page
+[33ma64da49[m feat: added my courses
+[33m6d00e9e[m feat: added educator
+[33m5bd1bc3[m feat: added dashboard
+[33me7ab856[m feat: added addcourse
+[33ma00f523[m feat: added sidebar
+[33m707d690[m feat: added navbar
+[33mdc7ea95[m feat: added footer
+[33m892a2fd[m feat: added app
+[33m4994456[m feat: update package
+[33m9aa46e2[m feat: added my player
+[33maf753ca[m feat: added my enrollments
+[33mc047279[m feat: added coursedetails
+[33meb3c2d9[m feat: update app context
+[33mb5f7fde[m feat: added rating
+[33m162f50a[m feat: added loading
+[33m1905e98[m feat: added coursecard
+[33m2e9db45[m feat: added custom classes
+[33m33f7552[m feat: added custom classes
+[33me2a179b[m feat: update package
+[33md19df05[m feat: update package
+[33m2d797ef[m feat: added course details page
+[33m3876e71[m feat: added courseList
+[33m78b3280[m feat: added searchBar
+[33m80426cc[m feat: added edemy
+[33mf9cc864[m feat: added testimonial
+[33m2e869fe[m feat: added hero
+[33m6c0a464[m feat: added call to action
+[33me8aff18[m feat: added search course
+[33mf8ae8a8[m feat: added search course
+[33mb52f43e[m feat: added search footer
+[33m50bb326[m feat: added search navbar
+[33m8429678[m feat: added search bar
+[33md48cb67[m feat: added hero
+[33mf30528a[m feat: added course section
+[33m0dbd5c9[m feat: added companies
+[33m47ca241[m feat: added figma file
+[33m959c4ae[m feat: added figma file
+[33m3e0c130[m feat: added vervel
+[33mff68969[m feat: added hero
+[33md7870ac[m feat: added custom classes
+[33me399e17[m feat: added hero
+[33mddf239f[m feat: added edemy setup
+[33mc21ee6a[m feat: added pages
+[33m55041c9[m feat: added context
+[33m71f2c79[m feat: added components
+[33m3c0c667[m feat: added app
+[33m499c55f[m feat: added assets
