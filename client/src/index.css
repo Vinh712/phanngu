@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 *{
-  font-family: Outfit;
+  font-family: sans-serif;
 }
 @keyframes marquee {
   0% {
