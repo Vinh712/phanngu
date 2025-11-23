@@ -3,16 +3,22 @@ import { assets } from '../../assets/assets'
 
 const Companies = () => {
   return (
-    <div className='pt-16'>
-      <p className='text-base text-gray-500'>
-        Các học viên đến từ các trường Đại học hàng đầu
-      </p>
+    <div className='pt-20 pb-10'>
+      <div className='max-w-6xl mx-auto text-center px-4'>
 
-    <div className='flex flex-wrap items-center justify-center gap-6 md:gap-16 md:mt-10 mt-5'>
+        <p className='text-base md:text-lg text-gray-500 tracking-wide'>
+          Các học viên đến từ các trường Đại học hàng đầu
+        </p>
 
-      <img src={assets.instructor_image} alt="hutech_logo" className='h-12 md:h-16 object-contain' />
+        <div className='flex items-center justify-center mt-10'>
+          <img
+            src={assets.instructor_image}
+            alt="instructor_image"
+            className='w-full max-w-[960px] h-auto object-contain drop-shadow-lg'
+          />
+        </div>
 
-    </div>
+      </div>
     </div>
   )
 }
