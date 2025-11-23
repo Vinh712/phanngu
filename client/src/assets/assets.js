@@ -108,28 +108,29 @@ export const dummyEducatorData = {
 
 
 export const dummyTestimonial = [
-    {
-        name: 'Sophia Carter',
-        role: 'Student @ AKTU',
-        image: assets.abhishek,
-        rating: 5,
-        feedback: 'SAP Study has revolutionized my teaching experience. The platform is intuitive, making course creation and student engagement seamless.',
-    },
-    {
-        name: 'Shreyansh Dubey',
-        role: 'Student @ KNIT',
-        image: assets.shreyansh,
-        rating: 4.8,
-        feedback: 'SAP Study provides an exceptional learning environment. The structured courses, real-time tracking, and user-friendly interface are top-notch.',
-    },
-    {
-        name: 'Olivia Martinez',
-        role: 'Software Engineer @ Microsoft',
-        image: assets.profile_img_3,
-        rating: 4.7,
-        feedback: 'SAP Study is a fantastic platform for upskilling. Its diverse course library and smooth UI make learning highly effective and engaging.',
-    },
+  {
+    name: 'Nguyễn Minh Anh',
+    role: 'Sinh viên – Đại học Hutech',
+    rating: 5,
+    feedback:
+      'NLS đã giúp mình cải thiện tiếng Anh rõ rệt. Lộ trình học dễ hiểu, giảng viên hỗ trợ tận tâm và nền tảng rất trực quan.',
+  },
+  {
+    name: 'Trần Quốc Huy',
+    role: 'Sinh viên Công nghệ Thông tin – UIT',
+    rating: 4.8,
+    feedback:
+      'Học IT tại NLS rất thực tế và dễ nắm bắt. Bài giảng chất lượng, có ví dụ minh họa và kiến thức áp dụng được ngay.',
+  },
+  {
+    name: 'Nguyễn Minh Quang',
+    role: 'Frontend Developer – FPT Software',
+    rating: 4.7,
+    feedback:
+      'NLS là nền tảng tuyệt vời để nâng cao kỹ năng. Tài liệu đa dạng, giao diện mượt và trải nghiệm học rất cuốn hút.',
+  },
 ];
+
 
 
 
