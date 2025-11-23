@@ -42,7 +42,7 @@ import profile_img from './profile_img.png'
 import profile_img2 from './profile_img2.png'
 import profile_img3 from './profile_img3.png'
 import lesson_icon from './lesson_icon.svg'
-
+import instructor_image from './instructor_image.png'
 import abhishek from './abhishek.JPG'
 import shreyansh from './shreyansh.JPG'
 export const assets = {
@@ -91,7 +91,8 @@ export const assets = {
     profile_img3,
     play_icon,
     blue_tick_icon,
-    lesson_icon
+    lesson_icon,
+    instructor_image
 }
 
 export const dummyEducatorData = {
@@ -111,6 +112,7 @@ export const dummyTestimonial = [
   {
     name: 'Nguyễn Minh Anh',
     role: 'Sinh viên – Đại học Hutech',
+    image: assets.abhishek,
     rating: 5,
     feedback:
       'NLS đã giúp mình cải thiện tiếng Anh rõ rệt. Lộ trình học dễ hiểu, giảng viên hỗ trợ tận tâm và nền tảng rất trực quan.',
@@ -118,6 +120,7 @@ export const dummyTestimonial = [
   {
     name: 'Trần Quốc Huy',
     role: 'Sinh viên Công nghệ Thông tin – UIT',
+    image: assets.shreyansh,
     rating: 4.8,
     feedback:
       'Học IT tại NLS rất thực tế và dễ nắm bắt. Bài giảng chất lượng, có ví dụ minh họa và kiến thức áp dụng được ngay.',
@@ -125,6 +128,7 @@ export const dummyTestimonial = [
   {
     name: 'Nguyễn Minh Quang',
     role: 'Frontend Developer – FPT Software',
+    image: assets.profile_img_3,
     rating: 4.7,
     feedback:
       'NLS là nền tảng tuyệt vời để nâng cao kỹ năng. Tài liệu đa dạng, giao diện mượt và trải nghiệm học rất cuốn hút.',
