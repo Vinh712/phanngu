@@ -64,13 +64,13 @@ const Navbar = () => {
 
 				{user ? (
 					<UserButton />
-				) : (
-					<button
-						onClick={() => openSignIn()}
+				) : (		
+					<a
+						href="https://courses.sapcenter.vn/"
 						className="bg-blue-600 text-white px-5 py-2 rounded-full"
 					>
 						Login
-					</button>
+					</a>
 				)}
 			</div>
 			<div className="md:hidden flex items-center gap-2 sm:gap-5 text-gray-500">
