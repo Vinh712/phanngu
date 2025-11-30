@@ -62,15 +62,21 @@ const Navbar = () => {
 					)}
 				</div>
 
+				<a
+					href="https://courses.sapcenter.vn/"
+					className="bg-green-600 text-white px-5 py-2 rounded-full"
+				>
+					Go to your class
+				</a>
 				{user ? (
 					<UserButton />
 				) : (		
-					<a
-						href="https://courses.sapcenter.vn/"
+					<button
+						onClick={() => openSignIn()}
 						className="bg-blue-600 text-white px-5 py-2 rounded-full"
 					>
 						Login
-					</a>
+					</button>
 				)}
 			</div>
 			<div className="md:hidden flex items-center gap-2 sm:gap-5 text-gray-500">
